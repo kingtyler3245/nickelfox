@@ -1,6 +1,6 @@
 body{
 background-color: white;
-font-family: 'Poppins', sans-serif;
+font-family: 'Poppin8', sans-serif;
 }
 
 nav{
@@ -26,7 +26,6 @@ a{
 button{
     background-color: black;
     color: white;
-    border-radius: 4px;
     width: 130px;
     height: 40px;
     margin-top: 9px;
@@ -102,5 +101,42 @@ h1{
 
 .images{
     height: 600px;
+}
+
+.arrow{
+   height: 15px;
+   width: 30px;
+  padding-left: 285px;
+  padding-bottom: 10px;
+}
+
+footer{
+margin-top: 90px;
+}
+
+#nav2{
+    display: flex;
+    gap: 100px;
+}
+
+.nav-img{
+    height: 60px;
+    width: 170px;
+}
+
+.footer-text{
+    margin-top: 35px;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.man{
+    margin-top: 10px;
+}
+
+input{
+    height: 40px;
+    margin-top: 5px;
+    width: 240px;
 }
 
